@@ -1,4 +1,4 @@
 # demo
 This is my First Repository
-Author-Shekhar Shelke
+Author-Shekhar Santosh Shelke 
 Collage Project Practice.
